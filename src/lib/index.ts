@@ -6,6 +6,7 @@
 //
 import * as _arrays from './arrays';
 export var arrays = _arrays;
+export {default as ArrayList} from './ArrayList';
 export {default as Bag} from './Bag';
 export {default as BSTree} from './BSTree';
 export {default as BSTreeKV} from './BSTreeKV';
